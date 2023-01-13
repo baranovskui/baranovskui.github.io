@@ -1,0 +1,18 @@
+body{
+    font-family: cursive;
+    font-style: italic;
+    font-size: 27px;
+    font-weight: 500;
+    background-image: url(foto.jpg);
+    color: rgb(255, 255, 255);
+}
+h3{
+    background-color: rgba(0, 0, 0, 0.911);
+    border-radius: 10px;
+    font-style: italic;
+}
+p{
+    background-color: rgba(0, 0, 0, 0.911);
+    border-radius: 10px;
+    padding-left: 8px;
+}
